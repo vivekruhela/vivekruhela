@@ -7,7 +7,7 @@
 - 🧬 **Expertise**: AI-driven **genomics, RNA-Seq, DNA analysis, GWAS, eQTL mapping, and precision medicine**.  
 - 🤖 **Tech Stack**: Python, R, TensorFlow, PyTorch, Scikit-learn, GWAS Analysis (GEMMA, GCTA, PLINK), eQTL Analysis (TensorQTL, MatrixQTL), Fine-mapping.  
 - 🔬 **Research Focus**: Identifying genetic biomarkers using **DL/ML** for early diagnosis and targeted treatments.  
-- 📚 **Publications**: [Google Scholar]([#](https://scholar.google.com/citations?user=E5QtgqsAAAAJ&hl=en)) | [ResearchGate](https://www.researchgate.net/profile/Vivek-Ruhela-2)  
+- 📚 **Publications**: [Google Scholar](https://scholar.google.com/citations?user=E5QtgqsAAAAJ&hl=en) | [ResearchGate](https://www.researchgate.net/profile/Vivek-Ruhela-2)  
 
 ## 📌 Featured Projects  
 🔹 **[AI-driven RNA-Seq Analysis](#)** – Deep learning for biomarker identification, early-onset, targeted therapy.  
