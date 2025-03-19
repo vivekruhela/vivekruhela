@@ -15,7 +15,7 @@
 🔹 **[eQTL Mapping](#)** – Identifying regulatory variants in cancer and neurological diseases.  
 
 ## 💡 Let's Connect!  
-📧 **Email**: [your-email@example.com](vr2592@cumc.columbia.edu)  
+📧 **Email**: [vr2592@cumc.columbia.edu](vr2592@cumc.columbia.edu)  
 🔗 **LinkedIn**: [linkedin.com/in/vivekruhela](https://www.linkedin.com/in/vivek-ruhela-0b012952/)  
 📁 **GitHub**: [github.com/vivekruhela](https://github.com/vivekruhela)  
 
